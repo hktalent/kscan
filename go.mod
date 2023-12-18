@@ -22,8 +22,8 @@ require (
 	//protocol
 	github.com/stacktitan/smb v0.0.0-20190531122847-da9a425dceb8
 	go.mongodb.org/mongo-driver v1.7.1
-	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
+	golang.org/x/crypto v0.17.0
 
 	//chinese
-	golang.org/x/text v0.3.6
+	golang.org/x/text v0.14.0
 )
